@@ -5,6 +5,6 @@ We will access this repo via Spring cloud.
 
 Recurrent Neural Networks
 
-Differntable Neural Computers
+Differntable Neural Computers and Neural Turing machines.
 
 
